@@ -1,0 +1,39 @@
+.designContainer {
+    display: flex;
+    gap:49px;
+    margin-top: 101px;
+    justify-content: center;
+}
+
+.design-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 601px;
+
+}
+
+.design-content h2 {
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 44px;
+    color: #4D4D4D;
+    margin-bottom: 16px;
+}
+
+.design-content p {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #717171;
+    margin-bottom: 32px;
+}
+
+.design-content button {
+    padding: 14px 32px;
+    width: 151px;
+    height: 52px;
+    background: #4CAF4F;
+    border-radius: 4px;
+    color: white;
+}

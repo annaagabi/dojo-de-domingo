@@ -1,0 +1,36 @@
+.pixel-grade-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-inline: 144px;
+}
+
+.learn-More {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    width: 601px;
+
+    h3 {
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 44px;
+        color: #4D4D4D;
+    }
+
+    p {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 20px;
+        color: #717171;
+    }
+
+    button {
+        padding: 14px 32px;
+        width: 151px;
+        height: 52px;
+        background: #4CAF4F;
+        border-radius: 4px;
+        color: #fff;
+    }
+}

@@ -1,0 +1,60 @@
+.meetInfo-container{
+    display: flex;
+    height: 100%;
+    gap: 78px;
+    align-items: flex-start;
+    justify-content: center;
+    margin-top: 81px;
+}
+.meet-info-image{
+    width: 326px;
+    height: 326px;
+}
+
+.Meet-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 16px;
+}
+
+.Meet-content p {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #717171;
+}
+
+.Meet-content h5 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 28px;
+    color: #4CAF4F;
+}
+
+.icon-items{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+        p{
+            font-weight: 600;
+            font-size: 20px;
+            line-height: 28px;
+            color: #4CAF4F;
+        }
+}
+
+.wrapperMeet{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 748px;
+    height: 324px;
+}
+
+.text-meet{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #89939E;
+    }

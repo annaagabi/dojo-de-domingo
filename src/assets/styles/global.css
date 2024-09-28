@@ -1,0 +1,33 @@
+:root{
+    --primary: #28CB8B;
+    --secondary: #263238;
+    --info: #2194f3;
+
+    /* Colors */
+    --white: #FFFFFF;
+    --black: #263238;
+    --gray100: #F5F7FA;
+    --gray200: #ABBED1;
+    --gray300: #89939E;
+    --gray400: #717171;
+    --gray500: #4D4D4D;
+
+    /* Color SHade */
+    --shade100: #43A046;
+    --shade200: #388E3B;
+    --shade300: #237D31;
+    --shade400: #1B5E1F;
+    --shade500: #103E13;
+
+    /* Color Tint */
+    --color-tint100: #66BB69;
+    --color-tint200: #81C784;
+    --color-tint300: #A5D6A7;
+    --color-tint400: #C8E6C9;
+    --color-tint500: #E8F5E9;
+
+    /* Action */
+    --warning: #FBC02D;
+    --error: #E53835;
+    --sucess: #2E7D31;
+}

@@ -1,0 +1,62 @@
+.OurClients-container{
+    margin-top: 113px;
+    
+    h3{
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 44px;
+        text-align: center;
+        color: #4D4D4D;
+        margin-bottom: 8px;
+    }
+    p{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #717171;
+
+    }
+}
+
+.Text-clients{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 41px;
+}
+
+
+
+.Img-clients{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:136px;
+}
+
+    .members-group {
+        display: flex;
+        padding-inline: 138px;
+        justify-content: space-between;
+        align-items: center;
+        gap: 127px;
+        margin-top: 16px;
+        div{
+            display: flex;
+            flex-direction: column;
+           align-items: center;
+           text-align: center;
+        }
+    }
+
+    .content-lean-more{
+        display: flex;
+        flex-direction: column;
+        gap: 16px;
+    }
+    
+    .text-clients2{
+        text-align: center;
+        margin-top: 77px;
+    }

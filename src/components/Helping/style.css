@@ -1,0 +1,49 @@
+.helping-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 204px;
+    margin-top: 48px;
+    
+}
+
+.heplping-text{
+    h2{
+        font-weight: 600;
+        font-size: 36px;
+        line-height: 44px;
+        color: #4D4D4D;
+    }
+    span{
+        color: #4CAF4F;
+    }
+
+    p{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 24px;
+        color: #18191F;
+    }
+}
+
+    .helpingItens{
+        display: grid;
+        grid-template-columns: repeat(2,255px);
+        grid-template-rows: repeat(2,100px);
+    } 
+
+.helpingItens{
+    div{
+        display: flex;
+    }
+    img{
+        width: 48px;
+        height: 48px;
+        margin-right: 16px;
+    }
+}
+
+.helpItenContent{
+    display: flex;
+    flex-direction: column;
+}
